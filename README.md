@@ -1,5 +1,3 @@
-I'll guide you through this comprehensive DevOps project step by step. This is an excellent hands-on project that covers the entire CI/CD pipeline for a real-world application.
-
 ## **Task 1: Project Setup**
 
 ### Step 1: Create GitHub Repository
